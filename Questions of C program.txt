@@ -1,0 +1,32 @@
+1. Write a C program to find maximum between two numbers.
+2. Write a C program to find maximum between three numbers.
+3. Write a C program to check whether a number is negative, positive or zero.
+4. Write a C program to check whether a number is divisible by 5 and 11 or not.
+5. Write a C program to check whether a number is even or odd.
+6. Write a C program to check whether a year is leap year or not.
+7. Write a C program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and  Computer. Calculate percentage and grade according to following:
+
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
+
+8. Write a C program to input basic salary of an employee and calculate its Gross salary according to following:
+Basic Salary <= 10000 : HRA = 20%, DA = 80%
+Basic Salary <= 20000 : HRA = 25%, DA = 90%
+Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+9. Write a C program to calculate the factorial of a number using a do-while loop.
+10. Create a program in C to find the sum of digits of a given number using a do-while loop.
+11. Write a C program to reverse a number using a do-while loop.
+12. Implement a C program to check if a given number is a palindrome using a do-while loop.
+13. Develop a C program to find the GCD (Greatest Common Divisor) of two numbers using a do-while loop.
+14. Create a C program to print the Fibonacci series up to a given limit using a do-while loop.
+15. Write a C program to check whether a given number is prime or not using a do-while loop.
+16.Implement a C program to find the sum of all even numbers between two given numbers using a do-while loop.
+17. Create a program in C to generate a multiplication table for a given number using a do-while loop.
+18. Develop a C program to calculate the average of n numbers entered by the user using a do-while loop.
+
+
