@@ -21,8 +21,5 @@ int main(){
 	else{
 		printf("%d is not an Armstrong Number",org);
 	}
-	
-	
-	
 	return 0;
 }
