@@ -1,0 +1,45 @@
+Storage classes--> it defines the scope and visibility and life time of variable or functions with in a c prg.
+
+-auto
+-register
+-static
+-extern
+
+auto--> by default all the local variables has auto storage class.
+
+int a;
+
+auto int a;
+
+
+- register--> this storage class is used to define local variables that should stored in a register instead of RAM. 
+
+
+register int a;
+
+note that defining register does not mean that variable will be stored in a register. It means that it might be stored in a register depending on hardware & implementation restrictions.
+
+
+static--> static is used on a global variable it causes only one copy of that member to be shared by all the objects of its class.
+
+
+static int a=10;
+
+t1,t2;
+
+t1.a++;-->11
+
+t2.a-->11
+
+
+-extern--> this modifier is most commonly used when there are two or more files sharing the same global variables or functions.
+
+
+extern int a=200;
+
+
+
+
+
+
+
